@@ -1,5 +1,7 @@
 # Iris Bin
 ### Automatic Mechanical Iris Bin Using Arduino Nano, Servo Motor (MG90S) and Ultrasonic Sensor
+<img width="747" height="647" alt="image" src="https://github.com/user-attachments/assets/2893aa6a-17bc-49bc-90c8-1b3c69f9cdbe" />
+
 
 THE PROJECT DOES NOT USE A PCB. NORMAL WIRING WILL BE USED.
 
@@ -14,6 +16,8 @@ THE PROJECT DOES NOT USE A PCB. NORMAL WIRING WILL BE USED.
 3. 5V Power Output
 4. Gears
 5. Ultrasonic Sensor
+6. Magnets - 3mm x 2mm : 8
+7. Magnets - 6mm x 2mm : 8
 
 ## Wiring Diagram
 <img width="1450" height="856" alt="image" src="https://github.com/user-attachments/assets/24813bd2-d323-4a16-9b5b-82f468392640" />
