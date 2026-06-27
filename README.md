@@ -25,6 +25,9 @@ THE PROJECT DOES NOT USE A PCB. NORMAL WIRING WILL BE USED.
 ## Onshape 3d Model Public Link
 https://cad.onshape.com/documents/147795ee32663a6a20f04274/w/aa1727281ebde088d70c3a67/e/038a0e5413f5dad9db959790?renderMode=0&uiState=6a3008f6fe58295fb9543c22
 
+## Assembly Instructions
+For Assembly Instructions, go to 
+
 ## Credits
 Thanks to [Hack Club](https://hackclub.com/) for providing this amazing platform.
 **Some Software We Used:**
